@@ -5,3 +5,4 @@ Course exercise notebooks will be published here. Click the link to open in cola
 | Session | Topic | |
 |---|---|---|
 | 01 | Getting Started: Tools and the Elements of a Program | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intertangler/CB2330-exercises/blob/main/01_programming_foundations/exercise.ipynb) |
+| 02 | Random Variables and Probability | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Intertangler/CB2330-exercises/blob/main/02_probability_foundations/exercise.ipynb) |
